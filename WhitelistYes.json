@@ -1,0 +1,47 @@
+{
+    "players": {
+      "785180109648035871": {
+        "hash": "c1cab0b1b29c2537eeadb77fe2ff87238c7d797f97611014e87da216eeab202b",
+        "invulnerable": true
+      },
+      "917452678446075914": {
+        "hash": "272293d93692b1948ebce6f3fbbcec3f9d07d144bca3cd8b78b3e0e81a51d7b9c03fec1282ba7736fe5f7d50b0ce53d675c972f996072061a735a61f7df82139",
+        "invulnerable": true
+      },
+       "918055711584432149": {
+        "hash": "9131cd4801dfe7c3434d734a73662bc5702cf572f84beee2a05bd9b7a182acb642d9030b56762ea99083fa9e6a5bf7c1c4a25e4d36e22195fd8d6679e4415255",
+        "invulnerable": true
+      },
+       "903828269860786176": {
+        "hash": "081b1467dfdab7dbf4ef661a3deec4a39e70809584ed06c3d99f1a0171ee22759d68ba8a11badd222e9ac5539036501757d6d396dddce66f4e69e2cdad8af74b",
+        "invulnerable": true
+      },
+       "886152045428629514": {
+        "hash": "45c2f1fbb7d2e28bacca395969d845df995a0b0cc388e188515eefd9674c6be23593584d10c0ba9efc28e76875e1ee76f52185449158366da03e068b2ca79188",
+        "invulnerable": true
+      },
+       "965940550798823487": {
+        "hash": "4cfeee3f1211709c5865b12e1a70188e32157275e196c8075973213d7012f08723c63847870d2ded9db84b3950f44665123814d32431bff83c3a32e6ffb3958e",
+        "invulnerable": true
+      },
+      "997880796302016562": {
+        "hash": "4fcb593969815fd0459df031cf8fadfd5836a22b24087341041f155c1477a4e0ac00c50d8be22e2e820fb8d421b6b5415580f1d1e7f2dceb777105c4ffaa8e8d",
+        "invulnerable": true
+      }
+    },
+    "owners": {
+      "331481988785766402": {
+        "hash": "7fb3137059b4540090bad9483d35dfcc3c1521c5f9333d2b82bd90d321d4f0c00092f93233239c9060aa63142cdcf373c7ae68ce6982319cbd29ec244f518560",
+        "invulnerable": true
+    },
+      "982316881010655306": {
+        "hash": "b1a9c680834fa06d2496075e9f51849e62d8a4cf686e1bc6442de24014f5df1fc7c28ffd48bbc6e2e27ff0039e20a6d7f6384247274d3179eed1fbf90f0becee",
+        "invulnerable": true
+    },
+      "1043516927823327232": {
+        "hash": "b52499f5084f04580403eb8f4f34eade8bbd4a93e8145154d1f8708d5ddfd2ce87a5b8a9cee779daa415cefee74556304d42d222e17e4866969f21cf57610859",
+        "invulnerable": true
+      }
+    },
+    "chattags": {}
+}
